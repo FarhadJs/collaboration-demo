@@ -3,3 +3,6 @@ Version 1.0
 
 Main Feature:
 This project demonstrates professional Git and GitHub collaboration workflows (Issues, PRs, Code Review, CI/CD).
+
+=== Feature developed in Branch 2 ===
+This line is added by conflict-test-2 - completely different text
