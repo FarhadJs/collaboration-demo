@@ -2,4 +2,4 @@ Collaboration Demo Project
 Version 1.0
 
 Main Feature:
-This project demonstrates professional Git and GitHub collaboration workflows including Issues, Pull Requests, Code Review, and CI/CD.
+This project demonstrates professional Git and GitHub collaboration workflows (Issues, PRs, Code Review, CI/CD).
