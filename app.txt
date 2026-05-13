@@ -6,3 +6,8 @@ This project demonstrates professional Git and GitHub collaboration workflows (I
 
 === Feature developed in Branch 1 ===
 This line is added by conflict-test-1
+
+=== Feature developed in Branch 2 ===
+This line is added by conflict-test-2 - completely different text
+
+this features needs to be here just as feature on feauture!  :)
